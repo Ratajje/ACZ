@@ -1,1 +1,2 @@
-Contido 6 en master
+"Contido 6 en fusionado manualmente desde master e rama2" 
+
